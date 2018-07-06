@@ -1,0 +1,24 @@
+{
+  "name": "whatsapi",
+  "version": "0.0.0",
+  "description": "An API for controlling Whatsapp Web Client",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matias-pierobon/whatsapi.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "web",
+    "puppeteer"
+  ],
+  "author": "Matias Pierobon <matias.pierobonm@gmail.com> (matias-pierobon.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matias-pierobon/whatsapi/issues"
+  },
+  "homepage": "https://github.com/matias-pierobon/whatsapi#readme"
+}
